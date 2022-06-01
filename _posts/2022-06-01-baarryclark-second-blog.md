@@ -22,9 +22,6 @@
 
 </div>
 
-<div align="center">
-  <img src="gridea-app.png">
-</div>
 
 [English](https://github.com/getgridea/gridea/blob/master/README.md) | 简体中文 | [繁體中文](https://github.com/getgridea/gridea/blob/master/README-zh_TW.md)
 
