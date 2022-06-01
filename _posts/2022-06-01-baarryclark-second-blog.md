@@ -1,7 +1,4 @@
 <div align="center">
-  <a href="https://gridea.dev">
-    <img src="public/app-icons/gridea.png"  width="80px" height="80px">
-  </a>
   <h1 align="center">
     Gridea
   </h1>
