@@ -8,7 +8,7 @@
 👏  欢迎来到 **CountStarss** ！  
 
 ✍️  接下来就讲一讲如何开始搭建工作
-##  配置Github Pages 
+##  [1]配置Github Pages 
   <p>1.首先要有一个GitHub账号</P>
   <P>2.新建一个仓库，需要注意，在设置仓库名字的时候有一定格式，因为我们要用它创建一个githubpages，来访问我们的博客。 </P>
   <P>3.仓库名字格式：your_username.github.io</P>
@@ -21,7 +21,7 @@
 
 ### 😁到这里第一部分完毕，一般来说这个时候你的github pages已经可以工作了
 
-##  创建token(令牌)，在Gridea中会用到
+##  [2]创建token(令牌)，在Gridea中会用到
   <P>1.点击头像旁边的箭头，来到Setting</P>
   <P>2.划到最底部，点击Developer Stting</P>
   <P>3.选择侧边栏中的第三个，Personal access tokens，点击generate new koten</P>
@@ -32,7 +32,7 @@
 
 ### 😁到这里第二部分完毕，接下来可以开始准备Gridea了
 
-##  Gridea软件
+##  [3]Gridea软件配置
   <a href="https://github.com/getgridea/gridea/releases">Gridea下载地址</a>
   <P>1.打开软件，选择远程，选择GitHub Pages</P>
   <P>2.域名填写你创建好的仓库名，格式为your_username.github.io</P>
