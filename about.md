@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+天津职业大学在读。
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+爱打羽毛球，喜欢搞技术，虽然会的东西很少，但是会慢慢充实起来的
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:countstarss@163.com)
