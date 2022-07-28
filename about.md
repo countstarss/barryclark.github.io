@@ -12,4 +12,4 @@ permalink: /about/
 
 ### Contact me
 
-[email@domain.com](mailto:countstarss@163.com)
+[countstarss@163.com](mailto:countstarss@163.com)
