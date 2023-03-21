@@ -1,4 +1,4 @@
-23-2-4
+我想成为的样子
 
 
 <p>I had time to sit down and write something today. I woke up early this morning and went out for a bus ride after dinner, so I arrived early and didn't get in the same car as my colleague from yesterday, but today I brought her some buns that I had talked to her about before.</p>
@@ -21,7 +21,6 @@
 最近，在通勤的路上，我通常会听一个英语频道，它会将一些有关英语发音、英国文化还有一些常用句式的使用场景，受益良多，我真的很爱这档节目。</p>
 <p>好了，今天就说到这里，see you guys next time，这是我在节目结尾经常会听到的一句话。</p>
 
-
-23-2-4
+2023/02/04
 
 
