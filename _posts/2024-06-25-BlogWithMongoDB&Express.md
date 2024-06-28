@@ -110,15 +110,15 @@
 
 - 在 mongoDB cloud 中添加 MongoDB 数据库
 
-  ```shell 不同环境下使用mongoDB的connect字符串
+  ```shell  //不同环境下使用mongoDB的connect字符串
   vscode:
-  mongodb+srv://luke:ywEC1qDLyAMmYEuj@exprossblog.theaxyk.mongodb.net/
+  mongodb+srv://<username>: <password>@exprossblog.theaxyk.mongodb.net/
 
   shell:  # homebrew : brew install mongosh
-  mongosh "mongodb+srv://exprossblog.theaxyk.mongodb.net/" --apiVersion 1 --username luke --password ywEC1qDLyAMmYEuj
+  mongosh "mongodb+srv://exprossblog.theaxyk.mongodb.net/" --apiVersion 1 --username <username> --password <password>
 
   NodeJs:
-  mongodb+srv://luke:ywEC1qDLyAMmYEuj@exprossblog.theaxyk.mongodb.net/?retryWrites=true&w=majority&appName=ExprossBlog
+  mongodb+srv://<username>: <password>@exprossblog.theaxyk.mongodb.net/?retryWrites=true&w=majority&appName=ExprossBlog
   ```
 
   最终采用 vscode 方法
