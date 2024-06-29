@@ -1,0 +1,16 @@
+# 添加CSS代码标记
+### 步骤
+- 下载一个VsCode插件TODO Highlight，可以让你更好的实现效果
+- VsCode搜索框输入“> Snippets”
+- 选中配置用户代码片段，选择语言，根据情况可以添加到全局
+- 粘贴下面的json代码
+### 写出TODO之后就会有代码补全
+``` json
+"CSS-MARK": {
+	"prefix": "TODO",
+	"body": [
+		"/*\n/ TODO: $TODO\nMARK: - $TODO\n*/",
+	],
+	"description": "Mark Snippets"
+}
+```
